@@ -7,27 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1922FAC02B66068D00AC00C3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1922FABF2B66068D00AC00C3 /* AppDelegate.swift */; };
-		1922FAC22B66068D00AC00C3 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1922FAC12B66068D00AC00C3 /* SceneDelegate.swift */; };
-		1922FAC42B66068D00AC00C3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1922FAC32B66068D00AC00C3 /* ViewController.swift */; };
-		1922FAC72B66068D00AC00C3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1922FAC52B66068D00AC00C3 /* Main.storyboard */; };
-		1922FAC92B66069000AC00C3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1922FAC82B66069000AC00C3 /* Assets.xcassets */; };
-		1922FACC2B66069000AC00C3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1922FACA2B66069000AC00C3 /* LaunchScreen.storyboard */; };
+		1922FAE02B66FE7100AC00C3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1922FADF2B66FE7100AC00C3 /* AppDelegate.swift */; };
+		1922FAE22B66FE7100AC00C3 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1922FAE12B66FE7100AC00C3 /* SceneDelegate.swift */; };
+		1922FAE42B66FE7100AC00C3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1922FAE32B66FE7100AC00C3 /* ViewController.swift */; };
+		1922FAE72B66FE7100AC00C3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1922FAE52B66FE7100AC00C3 /* Main.storyboard */; };
+		1922FAE92B66FE7400AC00C3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1922FAE82B66FE7400AC00C3 /* Assets.xcassets */; };
+		1922FAEC2B66FE7400AC00C3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1922FAEA2B66FE7400AC00C3 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		1922FABC2B66068D00AC00C3 /* HelloWorld.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HelloWorld.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		1922FABF2B66068D00AC00C3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		1922FAC12B66068D00AC00C3 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		1922FAC32B66068D00AC00C3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		1922FAC62B66068D00AC00C3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		1922FAC82B66069000AC00C3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		1922FACB2B66069000AC00C3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		1922FACD2B66069000AC00C3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1922FADC2B66FE7100AC00C3 /* HelloWorldCamdenW.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HelloWorldCamdenW.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1922FADF2B66FE7100AC00C3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		1922FAE12B66FE7100AC00C3 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		1922FAE32B66FE7100AC00C3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		1922FAE62B66FE7100AC00C3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		1922FAE82B66FE7400AC00C3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		1922FAEB2B66FE7400AC00C3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		1922FAED2B66FE7400AC00C3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		1922FAB92B66068D00AC00C3 /* Frameworks */ = {
+		1922FAD92B66FE7100AC00C3 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -37,72 +37,72 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		1922FAB32B66068D00AC00C3 = {
+		1922FAD32B66FE7100AC00C3 = {
 			isa = PBXGroup;
 			children = (
-				1922FABE2B66068D00AC00C3 /* HelloWorld */,
-				1922FABD2B66068D00AC00C3 /* Products */,
+				1922FADE2B66FE7100AC00C3 /* HelloWorldCamdenW */,
+				1922FADD2B66FE7100AC00C3 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		1922FABD2B66068D00AC00C3 /* Products */ = {
+		1922FADD2B66FE7100AC00C3 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				1922FABC2B66068D00AC00C3 /* HelloWorld.app */,
+				1922FADC2B66FE7100AC00C3 /* HelloWorldCamdenW.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		1922FABE2B66068D00AC00C3 /* HelloWorld */ = {
+		1922FADE2B66FE7100AC00C3 /* HelloWorldCamdenW */ = {
 			isa = PBXGroup;
 			children = (
-				1922FABF2B66068D00AC00C3 /* AppDelegate.swift */,
-				1922FAC12B66068D00AC00C3 /* SceneDelegate.swift */,
-				1922FAC32B66068D00AC00C3 /* ViewController.swift */,
-				1922FAC52B66068D00AC00C3 /* Main.storyboard */,
-				1922FAC82B66069000AC00C3 /* Assets.xcassets */,
-				1922FACA2B66069000AC00C3 /* LaunchScreen.storyboard */,
-				1922FACD2B66069000AC00C3 /* Info.plist */,
+				1922FADF2B66FE7100AC00C3 /* AppDelegate.swift */,
+				1922FAE12B66FE7100AC00C3 /* SceneDelegate.swift */,
+				1922FAE32B66FE7100AC00C3 /* ViewController.swift */,
+				1922FAE52B66FE7100AC00C3 /* Main.storyboard */,
+				1922FAE82B66FE7400AC00C3 /* Assets.xcassets */,
+				1922FAEA2B66FE7400AC00C3 /* LaunchScreen.storyboard */,
+				1922FAED2B66FE7400AC00C3 /* Info.plist */,
 			);
-			path = HelloWorld;
+			path = HelloWorldCamdenW;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		1922FABB2B66068D00AC00C3 /* HelloWorld */ = {
+		1922FADB2B66FE7100AC00C3 /* HelloWorldCamdenW */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1922FAD02B66069000AC00C3 /* Build configuration list for PBXNativeTarget "HelloWorld" */;
+			buildConfigurationList = 1922FAF02B66FE7400AC00C3 /* Build configuration list for PBXNativeTarget "HelloWorldCamdenW" */;
 			buildPhases = (
-				1922FAB82B66068D00AC00C3 /* Sources */,
-				1922FAB92B66068D00AC00C3 /* Frameworks */,
-				1922FABA2B66068D00AC00C3 /* Resources */,
+				1922FAD82B66FE7100AC00C3 /* Sources */,
+				1922FAD92B66FE7100AC00C3 /* Frameworks */,
+				1922FADA2B66FE7100AC00C3 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = HelloWorld;
-			productName = HelloWorld;
-			productReference = 1922FABC2B66068D00AC00C3 /* HelloWorld.app */;
+			name = HelloWorldCamdenW;
+			productName = HelloWorldCamdenW;
+			productReference = 1922FADC2B66FE7100AC00C3 /* HelloWorldCamdenW.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		1922FAB42B66068D00AC00C3 /* Project object */ = {
+		1922FAD42B66FE7100AC00C3 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1510;
 				LastUpgradeCheck = 1510;
 				TargetAttributes = {
-					1922FABB2B66068D00AC00C3 = {
+					1922FADB2B66FE7100AC00C3 = {
 						CreatedOnToolsVersion = 15.1;
 					};
 				};
 			};
-			buildConfigurationList = 1922FAB72B66068D00AC00C3 /* Build configuration list for PBXProject "HelloWorld" */;
+			buildConfigurationList = 1922FAD72B66FE7100AC00C3 /* Build configuration list for PBXProject "HelloWorldCamdenW" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -110,55 +110,55 @@
 				en,
 				Base,
 			);
-			mainGroup = 1922FAB32B66068D00AC00C3;
-			productRefGroup = 1922FABD2B66068D00AC00C3 /* Products */;
+			mainGroup = 1922FAD32B66FE7100AC00C3;
+			productRefGroup = 1922FADD2B66FE7100AC00C3 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				1922FABB2B66068D00AC00C3 /* HelloWorld */,
+				1922FADB2B66FE7100AC00C3 /* HelloWorldCamdenW */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		1922FABA2B66068D00AC00C3 /* Resources */ = {
+		1922FADA2B66FE7100AC00C3 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1922FACC2B66069000AC00C3 /* LaunchScreen.storyboard in Resources */,
-				1922FAC92B66069000AC00C3 /* Assets.xcassets in Resources */,
-				1922FAC72B66068D00AC00C3 /* Main.storyboard in Resources */,
+				1922FAEC2B66FE7400AC00C3 /* LaunchScreen.storyboard in Resources */,
+				1922FAE92B66FE7400AC00C3 /* Assets.xcassets in Resources */,
+				1922FAE72B66FE7100AC00C3 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		1922FAB82B66068D00AC00C3 /* Sources */ = {
+		1922FAD82B66FE7100AC00C3 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1922FAC42B66068D00AC00C3 /* ViewController.swift in Sources */,
-				1922FAC02B66068D00AC00C3 /* AppDelegate.swift in Sources */,
-				1922FAC22B66068D00AC00C3 /* SceneDelegate.swift in Sources */,
+				1922FAE42B66FE7100AC00C3 /* ViewController.swift in Sources */,
+				1922FAE02B66FE7100AC00C3 /* AppDelegate.swift in Sources */,
+				1922FAE22B66FE7100AC00C3 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		1922FAC52B66068D00AC00C3 /* Main.storyboard */ = {
+		1922FAE52B66FE7100AC00C3 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				1922FAC62B66068D00AC00C3 /* Base */,
+				1922FAE62B66FE7100AC00C3 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		1922FACA2B66069000AC00C3 /* LaunchScreen.storyboard */ = {
+		1922FAEA2B66FE7400AC00C3 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				1922FACB2B66069000AC00C3 /* Base */,
+				1922FAEB2B66FE7400AC00C3 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -166,7 +166,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		1922FACE2B66069000AC00C3 /* Debug */ = {
+		1922FAEE2B66FE7400AC00C3 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -229,7 +229,7 @@
 			};
 			name = Debug;
 		};
-		1922FACF2B66069000AC00C3 /* Release */ = {
+		1922FAEF2B66FE7400AC00C3 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -285,7 +285,7 @@
 			};
 			name = Release;
 		};
-		1922FAD12B66069000AC00C3 /* Debug */ = {
+		1922FAF12B66FE7400AC00C3 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -294,7 +294,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = V7HLP74XY3;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = HelloWorld/Info.plist;
+				INFOPLIST_FILE = HelloWorldCamdenW/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -305,7 +305,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.csideproductions.HelloWorld;
+				PRODUCT_BUNDLE_IDENTIFIER = com.csideproductions.HelloWorldCamdenW;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -313,7 +313,7 @@
 			};
 			name = Debug;
 		};
-		1922FAD22B66069000AC00C3 /* Release */ = {
+		1922FAF22B66FE7400AC00C3 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -322,7 +322,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = V7HLP74XY3;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = HelloWorld/Info.plist;
+				INFOPLIST_FILE = HelloWorldCamdenW/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -333,7 +333,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.csideproductions.HelloWorld;
+				PRODUCT_BUNDLE_IDENTIFIER = com.csideproductions.HelloWorldCamdenW;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -344,25 +344,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		1922FAB72B66068D00AC00C3 /* Build configuration list for PBXProject "HelloWorld" */ = {
+		1922FAD72B66FE7100AC00C3 /* Build configuration list for PBXProject "HelloWorldCamdenW" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				1922FACE2B66069000AC00C3 /* Debug */,
-				1922FACF2B66069000AC00C3 /* Release */,
+				1922FAEE2B66FE7400AC00C3 /* Debug */,
+				1922FAEF2B66FE7400AC00C3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1922FAD02B66069000AC00C3 /* Build configuration list for PBXNativeTarget "HelloWorld" */ = {
+		1922FAF02B66FE7400AC00C3 /* Build configuration list for PBXNativeTarget "HelloWorldCamdenW" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				1922FAD12B66069000AC00C3 /* Debug */,
-				1922FAD22B66069000AC00C3 /* Release */,
+				1922FAF12B66FE7400AC00C3 /* Debug */,
+				1922FAF22B66FE7400AC00C3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 1922FAB42B66068D00AC00C3 /* Project object */;
+	rootObject = 1922FAD42B66FE7100AC00C3 /* Project object */;
 }
